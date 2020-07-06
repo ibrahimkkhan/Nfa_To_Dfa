@@ -1,0 +1,15 @@
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Start test public:0:nfa_accept.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Test public:0:nfa_accept is successful.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: End test public:0:nfa_accept.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Start test public:2:nfa_move.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Test public:2:nfa_move is successful.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: End test public:2:nfa_move.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Start test public:5:str_to_nfa.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Test public:5:str_to_nfa is successful.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: End test public:5:str_to_nfa.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Start test public:7:nfa_new_trans.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Test public:7:nfa_new_trans is successful.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: End test public:7:nfa_new_trans.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Start test public:8:nfa_new_finals.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: Test public:8:nfa_new_finals is successful.
+2020-07-06T22:19:16+00:00 wireless-10-105-156-241.umd.edu#01 I: End test public:8:nfa_new_finals.
